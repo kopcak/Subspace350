@@ -58,15 +58,6 @@ function eof_docker_compose {
         "--reserved-nodes", "/dns/bootstrap-9.gemini-1b.subspace.network/tcp/30333/p2p/12D3KooWNGxWQ4sajzW1akPRZxjYM5TszRtsCnEiLhpsGrsHrFC6",
         "--reserved-nodes", "/dns/bootstrap-10.gemini-1b.subspace.network/tcp/30333/p2p/12D3KooWNGf1qr5411JwPHgwqftjEL6RgFRUEFnsJpTMx6zKEdWn",
         "--reserved-nodes", "/dns/bootstrap-11.gemini-1b.subspace.network/tcp/30333/p2p/12D3KooWM7Qe4rVfzUAMucb5GTs3m4ts5ZrFg83LZnLhRCjmYEJK",
-        "--reserved-nodes", "/ip4/117.173.218.133/tcp/40901/p2p/12D3KooWPKUXNhaPEMQaZ7GPJz3XtFeoqhqKycSqyjjqA8jcYmyE",
-        "--reserved-nodes", "/ip4/65.108.245.30/tcp/30333/p2p/12D3KooWRhYHBQyzghHwzaNmVgGSVMj5spusCahozNgHz7aSTN4t",
-        "--reserved-nodes", "/ip4/167.235.21.149/tcp/30333/p2p/12D3KooW9uhGQajt1EkYhNom4BKfhrAxb2jgma7kDsTJ4Zafsksh",
-        "--reserved-nodes", "/ip4/159.69.58.44/tcp/30333/p2p/12D3KooWGiqtXPWiYCSA22ZYkue27kRQ8tD7S6dv6jSocBShNGpg",
-        "--reserved-nodes", "/ip4/78.47.14.110/tcp/30333/p2p/12D3KooWHMCPXMgCX81bJyoTqGtdJzmmQuhbP7LqWyEyuF5JT7m8",
-        "--reserved-nodes", "/ip4/188.34.190.67/tcp/30333/p2p/12D3KooWEwscz2uLwUTHruYuzqrCQJWRyoS813ZB7apRc7cFmvuD",
-        "--reserved-nodes", "/ip4/209.145.48.32/tcp/30333/p2p/12D3KooWSa3ZTTT2UBhVK6B1PTh5oQ3kAxqVAsnBKwi4KcN6pKjR",
-        "--reserved-nodes", "/ip4/46.4.115.242/tcp/30333/p2p/12D3KooWFSfbto9b7DfMWSgGkLvaMYTim9JcYuN4iCQKxfeYEiXH",
-        "--reserved-nodes", "/ip4/117.173.218.222/tcp/41100/p2p/12D3KooWG6YrNjWd6fn78Zo6UEBNqBwEHd3uu2tc63D3ycGV218s",
         "--reserved-only"
       ]
       healthcheck:
